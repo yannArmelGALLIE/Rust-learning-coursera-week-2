@@ -1,5 +1,6 @@
 [workspace]
 members = [
+    "control-flow-conditionals",
     "variables/mutable",
     "variables/variables",
 ]
