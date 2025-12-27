@@ -11,6 +11,14 @@ name = "control-flow-conditionals"
 version = "0.1.0"
 
 [[package]]
+name = "for-loop"
+version = "0.1.0"
+
+[[package]]
+name = "loop-control"
+version = "0.1.0"
+
+[[package]]
 name = "loops"
 version = "0.1.0"
 
@@ -23,5 +31,13 @@ name = "shadowing"
 version = "0.1.0"
 
 [[package]]
+name = "user-input"
+version = "0.1.0"
+
+[[package]]
 name = "variables"
+version = "0.1.0"
+
+[[package]]
+name = "while-loops"
 version = "0.1.0"
