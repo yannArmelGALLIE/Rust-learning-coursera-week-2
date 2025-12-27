@@ -1,17 +1,24 @@
 fn main() {
-    let proceed = true;
-    if proceed {
-        println!("Proceeding");
-    } else {
-        println!("Not Proceeding");
-    }
+    let age = 19;
+    let sexe = true;
 
-    let masse = 190;
-    if masse > 180 {
-        println!("Tall");
-    } else if masse > 170 {
-        println!("Average");
+    if age > 18 {
+        if sexe {
+            println!("Homme adulte");
+        } else {
+            println!("Femme adulte");
+        }
+    } else if age > 14 {
+        if sexe {
+            println!("Un adolescent");
+        } else {
+            println!("Une adolescente");
+        }
     } else {
-        println!("Short");
+        if sexe {
+            println!("Un enfant");
+        } else {
+            println!("Une enfant");
+        }
     }
 }
