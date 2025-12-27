@@ -1,6 +1,6 @@
 [workspace]
-members = [
-    "control-flow-conditionals", "shadowing",
+members = ["conditionals",
+    "control-flow-conditionals", "loops", "shadowing",
     "variables/mutable",
     "variables/variables",
 ]
