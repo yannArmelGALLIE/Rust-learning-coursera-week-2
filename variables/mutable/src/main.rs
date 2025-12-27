@@ -1,3 +1,8 @@
 fn main() {
-    println!("Hello, world!");
+    let mut message = String::from("Masse : ");
+    message.clear();
+    let mut masse = 190;
+    masse = 189;
+
+    println!("{}{}", message, masse);
 }
