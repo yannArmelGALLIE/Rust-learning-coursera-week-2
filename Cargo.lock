@@ -15,6 +15,10 @@ name = "for-loop"
 version = "0.1.0"
 
 [[package]]
+name = "function-arguments"
+version = "0.1.0"
+
+[[package]]
 name = "loop-control"
 version = "0.1.0"
 
@@ -31,7 +35,15 @@ name = "mutable"
 version = "0.1.0"
 
 [[package]]
+name = "return-values"
+version = "0.1.0"
+
+[[package]]
 name = "shadowing"
+version = "0.1.0"
+
+[[package]]
+name = "unit-fonctions"
 version = "0.1.0"
 
 [[package]]

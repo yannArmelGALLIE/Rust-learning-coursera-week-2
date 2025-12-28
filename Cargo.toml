@@ -1,6 +1,6 @@
 [workspace]
 members = ["conditionals",
-    "control-flow-conditionals", "for-loop", "loop-control", "loops", "match-control", "shadowing",
+    "control-flow-conditionals", "for-loop", "function-arguments", "loop-control", "loops", "match-control", "return-values", "shadowing", "unit-fonctions",
     "variables/mutable",
     "variables/variables", "while-loops/user-input", "while-loops/while-loops",
 ]
