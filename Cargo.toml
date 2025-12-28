@@ -1,6 +1,6 @@
 [workspace]
 members = ["borrowing","conditionals",
-    "control-flow-conditionals", "for-loop", "function-arguments", "loop-control", "loops", "match-control", "return-values", "shadowing", "unit-fonctions",
+    "control-flow-conditionals", "error-handling", "for-loop", "function-arguments", "loop-control", "loops", "match-control", "panic", "return-values", "shadowing", "unit-fonctions",
     "variables/mutable",
     "variables/variables", "while-loops/user-input", "while-loops/while-loops",
 ]

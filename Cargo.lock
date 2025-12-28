@@ -15,6 +15,10 @@ name = "control-flow-conditionals"
 version = "0.1.0"
 
 [[package]]
+name = "error-handling"
+version = "0.1.0"
+
+[[package]]
 name = "for-loop"
 version = "0.1.0"
 
@@ -36,6 +40,10 @@ version = "0.1.0"
 
 [[package]]
 name = "mutable"
+version = "0.1.0"
+
+[[package]]
+name = "panic"
 version = "0.1.0"
 
 [[package]]
